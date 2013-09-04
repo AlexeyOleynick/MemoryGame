@@ -6,7 +6,4 @@ class MemoryGame {
 		new Level();
 	}
 
-	public function new() {
-		trace('Hello world');
-	}
 }
